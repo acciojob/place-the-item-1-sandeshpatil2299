@@ -1,2 +1,24 @@
+.main{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-between;
+    font-size: 3rem;
+}
 
-/* Your CSS Code here. */
+.item1 {
+    width: 100px;
+    height: 100px;
+    background-color: green;
+}
+
+.item2 {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+
+.item3 {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
